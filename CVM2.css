@@ -1,0 +1,32 @@
+ h1{
+    color:indigo;
+    background-color: lavender;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{color: blueviolet;
+font-size: 25px;
+
+}
+p{color: rgb(0, 0, 0);
+font-weight: bold; }
+#caja{background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+width: auto;
+height: auto;
+padding: 10px;
+margin: 10px;
+box-shadow: 5px 5px 50px rgb(47, 173, 185)
+
+}
+.destacados{font-size: 30px;
+color: rgb(49, 0, 95);
+}
+#caja2{
+border-radius: 5px;
+background-color: rgb(238,174,202);
+width: 100px;
+}
+
